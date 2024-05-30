@@ -1,6 +1,8 @@
 # Ethereum
 Ethereum Airdrop
 
+# Ethereum
+Eth Airdrop
 
 **CryptoNex stands out in the crowded field of crypto mining platforms for several reasons:**
 
