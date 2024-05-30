@@ -1,10 +1,6 @@
 # Ethereum
 Ethereum Airdrop
-Ethereum Mining Bot
-USDT Airdrop
-Polygon Airdrop
-Ethereum network Airdrop
-Bnb Airdrop
+
 
 **CryptoNex stands out in the crowded field of crypto mining platforms for several reasons:**
 
